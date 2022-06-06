@@ -1,0 +1,7 @@
+project: phash
+target: phash
+
+cmds:
+  - cmd: /repo/build/TestVideoHash @@
+    env:
+      DISABLE_SMOKETEST: '1'
