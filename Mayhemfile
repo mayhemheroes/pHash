@@ -1,5 +1,5 @@
 project: phash
-target: phash
+target: TestVideoHash
 
 cmds:
   - cmd: /repo/build/TestVideoHash @@
