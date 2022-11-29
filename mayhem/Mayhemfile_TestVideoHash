@@ -5,4 +5,3 @@ cmds:
   - cmd: /install/bin/TestVideoHash @@
     env:
       DISABLE_SMOKETEST: '1'
-image: ghcr.io/rnshah9/playground:phash

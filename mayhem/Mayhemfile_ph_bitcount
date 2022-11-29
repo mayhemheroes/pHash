@@ -1,0 +1,5 @@
+project: phash
+target: ph-bitcount
+
+cmds:
+  - cmd: /fuzz_ph_bitcount
